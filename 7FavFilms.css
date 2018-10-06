@@ -1,0 +1,44 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	background-color: slategrey;
+	color: lightgrey;
+}
+
+header {
+	font-size: 8vw;
+	color: white;
+}
+
+section {
+	background-color: lightgrey;
+	color: slategrey;
+	box-sizing: border-box;
+	padding: 0px 10px;
+	margin: 10px 0px;
+}
+
+dt {
+	text-transform: uppercase;
+}
+
+dd {
+	font-family: Cambria, Century Schoolbook;
+	font-style: italic;
+}
+
+footer {
+	font-size: smaller;
+	background-color: rgba(211,211,211,0.2);
+	text-align: center;
+	padding: 4px;
+	border-style: solid;
+	border-color: lightgrey;
+}
+
+.content {
+	padding: 4px;
+}
+
+a:visited {
+	color: black
+}
